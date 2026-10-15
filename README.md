@@ -1,2 +1,3 @@
-# content_type_journal
-A journal, content type.
+# Dear diary
+
+A diary / journal module for Drupal.
