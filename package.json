@@ -1,5 +1,5 @@
 {
-    "name": "drupal/content_dear_diary",
+    "name": "content_dear_diary",
     "description": "A diary / journal module for Drupal.",
     "type": "module",
     "devDependencies": {
